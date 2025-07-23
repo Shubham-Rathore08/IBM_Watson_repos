@@ -1,2 +1,2 @@
 # IBM_Watson_repos
-Here in this repository, all notebbok are pushed from "IBM watson studio"
+Here in this repository, all notebooks are pushed from "IBM watson studio"
